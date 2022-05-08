@@ -14,6 +14,7 @@ The followig are 6 screenshots from the App:
 
                                                  1
 ![1](https://user-images.githubusercontent.com/48598160/167315490-46825147-47e6-4e52-88f6-73d3a9ad19f0.png)
+<img src="https://user-images.githubusercontent.com/48598160/167315490-46825147-47e6-4e52-88f6-73d3a9ad19f0.png" width="100" height="100">
 
 
                                                  2
